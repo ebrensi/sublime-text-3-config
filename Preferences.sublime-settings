@@ -1,0 +1,19 @@
+{
+	"color_scheme": "Packages/Harmonious Color Schemes/Brunette.tmTheme",
+	"copy_with_empty_selection": false,
+	"ensure_newline_at_eof_on_save": true,
+	"font_size": 11,
+	"hot_exit": false,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"indent_guide_options":
+	[
+		"draw_active"
+	],
+	"line_numbers": false,
+	"remember_open_files": true,
+	"theme": "Adaptive.sublime-theme",
+	"trim_trailing_white_space_on_save": true
+}

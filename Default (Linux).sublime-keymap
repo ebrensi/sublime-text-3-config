@@ -1,0 +1,6 @@
+[
+	{
+	    "keys": ["ctrl+k", "ctrl+c"],
+	    "command": "change_tab_color_scheme"
+	}
+]
