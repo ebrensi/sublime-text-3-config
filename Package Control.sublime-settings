@@ -5,6 +5,7 @@
 	],
 	"installed_packages":
 	[
+		"Better CoffeeScript",
 		"Coffee Color Scheme",
 		"Colorsublime",
 		"Git",
@@ -12,6 +13,7 @@
 		"Package Control",
 		"Ruby Blue Color Scheme",
 		"Theme - Cobalt2",
+		"WakaTime",
 		"Witch Hazel"
 	]
 }
